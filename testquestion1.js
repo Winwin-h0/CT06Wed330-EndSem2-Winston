@@ -4,7 +4,7 @@ let xSpeed;
 function setup(){
     createCanvas(600, 400);
     posX = width/ 2;
-    xSpeed = 5;
+    xSpeed = 2;
 }
 
 function draw(){
