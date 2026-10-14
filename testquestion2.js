@@ -3,12 +3,12 @@ let yPos;
 
 function setup(){
     createCanvas(200, 300);
-    background("green")
+    background("green");
     fill("pink");
     // Task: Align the text to the center using textAlign
-    textAlign(CENTER,CENTER)
+    textAlign(CENTER,CENTER);
     // Task: set font size to 20 using textSize
-    textSize(20)
+    textSize(20);
     yPos = 100;
 
     for (let i = 0; i<5; i++){
