@@ -20,6 +20,4 @@ function draw(){
 
     circle(posX, 200, 100)
 
-
-
 }
