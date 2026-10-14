@@ -8,16 +8,16 @@ function setup(){
 }
 
 function draw(){
-    background("lightblue")
+    background("lightblue");
 
-    fill("green")
+    fill("green");
 
     if (posX <= 0 + 50 || posX >= 600 - 50){
-        xSpeed *= -1
+        xSpeed *= -1;
     }
 
-    posX += xSpeed
+    posX += xSpeed;
 
-    circle(posX, 200, 100)
+    circle(posX, 200, 100);
 
 }
