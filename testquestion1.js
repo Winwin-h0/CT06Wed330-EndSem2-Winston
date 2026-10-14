@@ -8,9 +8,9 @@ function setup(){
 }
 
 function draw(){
-    background("black")
+    background("lightblue")
 
-    fill("green")
+    fill("lightgreen")
 
     if (posX <= 0 + 50 || posX >= 600 - 50){
         xSpeed *= -1
