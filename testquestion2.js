@@ -12,6 +12,6 @@ function setup(){
     yPos = 100;
 
     for (let i = 0; i<5; i++){
-        text(pokemons[i], )
+        text(pokemons[i], 100, y)
     }
 }
