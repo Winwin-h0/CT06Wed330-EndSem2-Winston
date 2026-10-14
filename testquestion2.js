@@ -8,6 +8,8 @@ function setup(){
     // Task: Align the text to the center using textAlign
     textAlign(CENTER,CENTER)
     // Task: set font size to 20 using textSize
-    textSize
+    textSize(20)
     yPos = 100;
+
+    
 }
