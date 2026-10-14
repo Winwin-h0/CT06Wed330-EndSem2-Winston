@@ -9,7 +9,9 @@ function setup(){
 function draw(){
     background("light blue")
 
-    fill()
+    fill("green")
+
+    
 
 
 
