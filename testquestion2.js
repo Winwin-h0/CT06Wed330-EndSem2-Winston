@@ -13,6 +13,6 @@ function setup(){
 
     for (let i = 0; i<5; i++){
         text(pokemons[i], 100, yPos)
-        yPos += 20
+        yPos += 30
     }
 }
