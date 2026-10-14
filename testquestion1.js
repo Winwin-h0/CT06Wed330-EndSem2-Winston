@@ -18,7 +18,7 @@ function draw(){
 
     posX = posX = xSpeed
 
-    circle(posX, 200)
+    circle(posX, 200, 100)
 
 
 
