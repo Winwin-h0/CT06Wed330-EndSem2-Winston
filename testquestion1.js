@@ -7,8 +7,8 @@ function setup(){
 }
 
 function draw(){
-    background('light blue')
+    background("light blue")
 
-    
+
 
 }
