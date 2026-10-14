@@ -8,7 +8,7 @@ function setup(){
 }
 
 function draw(){
-    background("blue")
+    background("black")
 
     fill("green")
 
