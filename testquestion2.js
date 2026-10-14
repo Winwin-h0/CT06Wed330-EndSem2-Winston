@@ -9,10 +9,10 @@ function setup(){
     textAlign(CENTER,CENTER);
     // Task: set font size to 20 using textSize
     textSize(20);
-    yPos = 50;
+    yPos = 100;
 
     for (let i = 0; i<5; i++){
         text(pokemons[i], 100, yPos)
-        yPos += 50
+        yPos += 20
     }
 }
