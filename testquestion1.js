@@ -1,4 +1,5 @@
-let posX, xSpeed;
+let posX;
+let xSpeed;
 
 function setup(){
     createCanvas(600, 400);
@@ -11,7 +12,9 @@ function draw(){
 
     fill("green")
 
-    
+    if (posX >= 600 - 50 || posX <= 400 - 50){
+        
+    }
 
 
 
