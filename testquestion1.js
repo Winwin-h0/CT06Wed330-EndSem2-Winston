@@ -12,7 +12,7 @@ function draw(){
 
     fill("green")
 
-    if (posX = 0 || posX <= 600){
+    if (posX <= 0 || posX >= 600){
         xSpeed = xSpeed * -1
     }
 
