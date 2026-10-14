@@ -11,5 +11,7 @@ function setup(){
     textSize(20)
     yPos = 100;
 
-    
+    for (let i = 0; i<5; i++){
+        
+    }
 }
