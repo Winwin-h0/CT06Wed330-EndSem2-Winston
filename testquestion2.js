@@ -3,7 +3,7 @@ let yPos;
 
 function setup(){
     createCanvas(200, 300);
-    background("green");
+    background("black");
     fill("pink");
     // Task: Align the text to the center using textAlign
     textAlign(CENTER,CENTER);
