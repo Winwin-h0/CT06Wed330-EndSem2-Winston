@@ -6,6 +6,7 @@ function setup(){
     background("green")
     fill("pink");
     // Task: Align the text to the center using textAlign
+    textAlign
     // Task: set font size to 20 using textSize
     yPos = 100;
 }
