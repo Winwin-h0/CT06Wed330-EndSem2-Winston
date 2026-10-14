@@ -16,7 +16,7 @@ function draw(){
         xSpeed = xSpeed * -1
     }
 
-    
+    posX = posX = Xspeed
 
 
 
